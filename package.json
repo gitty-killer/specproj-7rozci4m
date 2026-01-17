@@ -1,0 +1,10 @@
+{
+  "name": "specproj-7rozci4m",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node tests/lib.test.js"
+  }
+}
