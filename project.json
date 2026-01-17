@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-7rozci4m"",
-  ""goal"": ""batch normalizer for reporting"",
-  ""language"": ""node"",
-  ""template"": ""node-cli""
+    "name":  "specproj-7rozci4m",
+    "goal":  "batch normalizer for reporting",
+    "language":  "node",
+    "template":  "node-cli"
 }
